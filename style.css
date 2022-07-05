@@ -1,0 +1,79 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.background{
+	background-image:url(img/pexels-pixabay-45842.jpg);
+     height: 100vh;
+	 background-size: cover;
+	 background-position: center;
+	position: relative;
+
+}
+
+.h1{
+    text-align: center;
+	margin-top: 200px;
+	margin-left: 400px;
+	font-size: 3.5rem;
+	color:black;
+	position: absolute;
+}
+.p-tag{
+	width: 650px;
+	text-align: center;
+	margin-top: 330px;
+	margin-left:350px ;
+	position: absolute;
+	font-size: 20px;
+	color: white;
+}
+.Anchor-tag{
+	background-image: linear-gradient(red ,tomato);
+	padding: 15px;
+	position: absolute;
+	text-align: center;
+	margin-left: 600px;
+	margin-top: 420px;
+	text-decoration: none;
+	font-size: 18px;
+	color:white;
+	border-radius: 5px;
+}
+.Donate{
+	text-align: center;
+	font-size:3rem;
+	margin-top: 100px;
+}
+.donate-p{
+	text-align: center;
+	font-size: 18px;
+	width: 700px;
+	margin-left: 320px;
+	margin-top: 40px;
+}
+.full-content{
+display: flex;
+margin-left: 200px;
+margin-top: 40px;
+}
+.helf-content{
+	font-size: 2rem;
+	padding: 30px;
+
+}
+#k{
+	background-color: tomato;
+	border: 2px solid red;
+	padding: 30px;
+	border-radius: 5px;
+	
+}
+#All-k{
+	background-color:#f7f1f1;
+	border: 2px solid #cccccc;
+	padding: 30px;
+	border-radius: 5px;
+}
+
